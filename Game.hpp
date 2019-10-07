@@ -1,5 +1,5 @@
 /*******************************************************************************
-** Program name: Final Project - Storm Area 51 (text based game)
+** Program name: Storm Area 51
 ** Author:       Elaine Kim
 ** Date:         August 9, 2019
 ** Description:  Header file for the Game class
